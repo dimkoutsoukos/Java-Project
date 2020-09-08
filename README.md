@@ -1,2 +1,2 @@
 # Java-Project
-from RENTALUI you can open the UI file and run the app
+from RentalUI (Java-Project/RentalUI/src/) you can open the rentalMenu file and run the app
